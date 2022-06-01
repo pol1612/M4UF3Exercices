@@ -1,0 +1,43 @@
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.panel-buttons .btn{
+	position: relative;
+	top: -2px;
+}
+
+
+/* Classes d'estil per a l'exercici 3 */
+
+.color-red{
+	color: red;
+}
+
+.color-green{
+	color: green;
+}
+
+.color-blue{
+	color: blue;
+}
+
+.color-yellow{
+	color: yellow;
+}
+
+.text-bold{
+	font-weight: bold;
+}
+
+.text-italic{
+	font-style: italic;
+}
+
+.text-underline{
+	text-decoration: underline;
+}
+
+/* Classes d'estil per a l'exercici 3 */

@@ -1,0 +1,14 @@
+*{
+	box-sizing: border-box;
+}
+
+
+.table td{
+	padding: 5px;
+	border: 1px solid #000;
+}
+
+
+pre{
+	overflow: initial;
+}

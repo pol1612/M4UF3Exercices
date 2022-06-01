@@ -1,0 +1,25 @@
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.panel-buttons .btn{
+    position: relative;
+    top: -2px;
+}
+
+
+.col-num{
+    width: 40px;
+}
+.col-status{
+    width: 40px;
+}
+.col-title{
+    width: 140px;
+}
+.col-desc{}
+.col-action{
+    width: 80px;
+}
